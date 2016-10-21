@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="b_add_text">Agregar ToDo</string>
+    <string name="b_aceptar">Aceptar</string>
+    <string name="b_cancelar">Cancelar</string>
+    <string name="t_descripcion">Descripcion</string>
+    <string name="t_titulo">Titulo</string>
+    <string name="titulo_vacio">El titulo no puede ser vacio.</string>
+    <string name="b_cerrar">Cerrar</string>
+    <string name="b_refresh">Refresh</string>
+    <string name="b_logout">Logout</string>
+</resources>
